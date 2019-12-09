@@ -1,0 +1,6 @@
+Results for davis
+Question 0 (incorrect). What is Superman vulnerable to? Your answer was d and the correct answer was Kryptonite
+Question 1 (correct). What is Batman's ride called? Your answer was batmobile and the correct answer was Batmobile
+Question 2 (incorrect). What can spiderman do? Your answer was s and the correct answer was Whatever a spider can
+Question 3 (correct). Who played Wonder Woman in the recent motion picture? Your answer was gal gadot and the correct answer was Gal Gadot
+You have won!

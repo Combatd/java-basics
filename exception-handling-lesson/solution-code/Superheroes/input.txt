@@ -1,0 +1,3 @@
+Superman,Clark Kent,Krypton
+Batman,Bruce Wayne,Gotham City
+Wonder Woman,Diana Prince,Themyscira
